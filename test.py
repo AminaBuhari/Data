@@ -1,2 +1,3 @@
-a = testing_data 
+a = "testing_data"
 print(a)
+b = "testing"
